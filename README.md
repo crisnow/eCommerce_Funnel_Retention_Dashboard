@@ -5,13 +5,13 @@
 🤖 Objective:
 Visualize user behavior from signup to purchase, understand retention, and identify top-performing products using live event data.
 
-Tools & Stack:
+* Tools & Stack:
 Data warehouse: Google BigQuery
 ETL / Modeling: SQL (optional dbt for modeling)
 Visualization: Looker Studio (Google Data Studio)
 Metrics: Funnel conversion rates, 30-day retention, top products by revenue and device
 
-Role:
+* Role:
 End-to-end owner of the project: data extraction, modeling, visualization, and KPI calculation.
 
 Key Features
